@@ -1,5 +1,6 @@
-template-repository (1.0-1) unstable; urgency=medium
+xorg-server (21.1.7-1) unstable; urgency=medium
 
-  * Initial release
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * This is a packaged version which suitable for deepin23 sys.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Cruise.zrz <Cruise.zrz@gmail.com>  Thu, 06 Jul 2023 16:01:58 +0800
